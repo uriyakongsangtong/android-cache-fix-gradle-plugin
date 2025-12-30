@@ -1,4 +1,4 @@
-name: Execute Wrapper Upgrade
+ืname: Execute Wrapper Upgrade
 
 on:
   schedule:
